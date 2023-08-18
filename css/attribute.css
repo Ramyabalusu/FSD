@@ -1,0 +1,20 @@
+/*input[type]
+{
+	color:red;
+}*/
+input[type="text"]{
+	color:blue;
+}
+input[type="button"]
+{
+	background-color:orange;
+}<br>
+a[target]{
+	color:pink;
+	background-color:green;
+}
+input[type]
+{
+	color:red;
+}
+

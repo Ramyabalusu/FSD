@@ -1,0 +1,16 @@
+.a{
+	height:400px;
+	width:500px;
+	background-color:yellow;
+	transition-duration: 1000ms;
+/*	transition-property: background;*/
+    transition-property: width;
+    trasnform:rotate(45deg);
+
+
+}
+.a:hover
+{
+	background-color:pink;
+	 trasnform:rotate(45deg);
+}

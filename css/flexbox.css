@@ -1,0 +1,21 @@
+.a{
+	height:1000px;
+	width:800px;
+	background-color:pink;
+	display:flex;
+}
+.b{
+	height:100px;
+	width:100px;
+	background-color:orange;
+}
+.c{
+	height:100px;
+	width:100px;
+	background-color:yellow;
+}
+.d{
+	height:100px;
+	width:100px;
+	background-color:green;
+}

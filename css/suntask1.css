@@ -1,0 +1,28 @@
+.e{
+	font-style:italic;
+	font-size:30px;
+	letter-spacing:2px;
+	margin-top:20px;
+}
+.h{
+	font-size:40px;
+
+}
+a{
+	margin-bottom:20px;
+	font-size:30px;
+	color:purple;
+}
+table{
+	width:1500px;
+	height:200px;
+}
+.t{
+	font-size:50px;
+}
+.forms{
+	text-align:right;
+}
+textarea{
+	height:300px;
+}

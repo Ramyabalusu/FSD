@@ -1,0 +1,43 @@
+.a{
+	border:dotted;
+	padding:20px;
+}
+.b{
+	border:dashed;
+	padding:20px;
+}
+.c{
+	border:solid;
+	padding:20px;
+}
+.d{
+	border:double;
+	padding:20px;
+}
+.e{
+	border:groove;
+	padding:20px;
+}
+.f{
+	border:ridge;
+	padding:20px;
+}
+.g{
+	border:inset;
+	padding:20px;
+}
+.h{
+	border:outset;
+	padding:20px;
+}
+.i{
+	border:none;
+	padding:20px;
+}
+.j{
+	border:hidden;
+	padding:20px;
+}
+
+
+

@@ -1,0 +1,18 @@
+#a{
+	border:10px dotted hotpink;
+	padding:40px;
+	background-color:skyblue;
+	background-clip:border-box;
+}
+#b{
+	border:10px dotted hotpink;
+	padding:40px;
+	background-color:skyblue;
+	background-clip:padding-box;
+}
+#c{
+	border:10px dotted hotpink;
+	padding:40px;
+	background-color:skyblue;
+	background-clip:content-box;
+}
