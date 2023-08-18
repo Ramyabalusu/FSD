@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+    <table border="">
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+    <script>
+        let list = document.getElementsByTagName('td');
+        // for (var i = list.length; i>0; i--) {
+        //     list[list.length-i].innerText = i;
+        // }
+        k=8;
+        for(var i=0;i<list.length;i++)
+        {
+            list[i].innerHTML=k;
+            k--;
+        }
+    </script>
+</body>
+</html>
